@@ -1,4 +1,4 @@
-#README
+##README
 
 ### Subtítulo
 Este es un ejemplo de texto
@@ -7,4 +7,4 @@ Este es un ejemplo de texto
 - Elemento 2
 
 1. Elemento
-** Negrita ** o *Cursiva* 
+**Negrita** o *Cursiva*
